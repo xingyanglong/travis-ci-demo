@@ -5,6 +5,6 @@ var hello = require('./hello');
 
 describe('run hello.js', function() {
   it('should return "Hello Mr.CrazyStone"', function() {
-    expect(hello()).to.equal('Hello Mr.CrazyStone');
+    expect(hello()).to.equal('Hello Mr.CrazySton');
   });
 });
